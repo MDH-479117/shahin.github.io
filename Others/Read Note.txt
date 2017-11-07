@@ -1,0 +1,15 @@
+Select the Shopping folder and right click on Shopping and select 
+property and make it web sharing and select Share this Folder option and
+select all check boxes and dont change the default folder name 
+keep it as Shopping only then apply and ok 
+
+open the application visual studio 2005 and open the project and set the 
+default.aspx as start up page and run it by press f5 or click on green button
+for running.
+
+password for admin is
+
+userid: 	admin
+password: 	admin
+
+Admin Enter with the same login screen using above userid and password.
